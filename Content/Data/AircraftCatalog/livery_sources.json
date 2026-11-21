@@ -1,0 +1,753 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-21T20:23:14+00:00",
+  "method": "GitHub REST API v3: /repos/{owner}/{repo} and /contents/. Asset payloads were not downloaded; see asset_rights_note per record.",
+  "summary": {
+    "repositories_listed": 6,
+    "repositories_reachable": 5,
+    "repositories_missing": 1,
+    "open_source_code": 4,
+    "usable_metadata_sources": [
+      "kolos26/GEOFS-LiverySelector",
+      "GeofsExplorer/GeoFS-LiverySelector",
+      "RoqueDJ/GEOFS-LiverySelectorUltimate",
+      "Spice9/Geofs-Multiliveries",
+      "iuhairways/GEOFS-LiverySelector-by-kolos26"
+    ]
+  },
+  "repositories": [
+    {
+      "repo": "kolos26/GEOFS-LiverySelector",
+      "github_url": "https://github.com/kolos26/GEOFS-LiverySelector",
+      "reachable": true,
+      "http_status": 200,
+      "inspected_at": "2026-11-21T20:23:12+00:00",
+      "exists": true,
+      "description": "Unified livery handler addon for GeoFS.",
+      "default_branch": "main",
+      "size_kb": 17664263,
+      "last_pushed": "2026-10-23T16:42:54Z",
+      "stars": 146,
+      "archived": false,
+      "code_license": "MIT",
+      "code_license_name": "MIT License",
+      "code_license_url": "https://github.com/kolos26/GEOFS-LiverySelector/blob/main/LICENSE",
+      "top_level": [
+        {
+          "name": ".airline_json",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": ".cloudflare",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": ".filecheck",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": ".github",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": ".gitignore",
+          "type": "file",
+          "size": 266
+        },
+        {
+          "name": ".webhook",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": ".webp",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "FAQ.md",
+          "type": "file",
+          "size": 1298
+        },
+        {
+          "name": "LICENSE",
+          "type": "file",
+          "size": 1064
+        },
+        {
+          "name": "airline.json",
+          "type": "file",
+          "size": 44483
+        },
+        {
+          "name": "commit.txt",
+          "type": "file",
+          "size": 41
+        },
+        {
+          "name": "liveries",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "livery.json",
+          "type": "file",
+          "size": 4615830
+        },
+        {
+          "name": "liveryselector-logo-small.svg",
+          "type": "file",
+          "size": 29310
+        },
+        {
+          "name": "liveryselector-logo.svg",
+          "type": "file",
+          "size": 40094
+        },
+        {
+          "name": "main.js",
+          "type": "file",
+          "size": 53933
+        },
+        {
+          "name": "maps",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "styles.css",
+          "type": "file",
+          "size": 6521
+        },
+        {
+          "name": "thumbs",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "tutorial",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "whitelist.json",
+          "type": "file",
+          "size": 6194
+        }
+      ],
+      "top_level_names": [
+        ".airline_json",
+        ".cloudflare",
+        ".filecheck",
+        ".github",
+        ".gitignore",
+        ".webhook",
+        ".webp",
+        "FAQ.md",
+        "LICENSE",
+        "airline.json",
+        "commit.txt",
+        "liveries",
+        "livery.json",
+        "liveryselector-logo-small.svg",
+        "liveryselector-logo.svg",
+        "main.js",
+        "maps",
+        "styles.css",
+        "thumbs",
+        "tutorial",
+        "whitelist.json"
+      ],
+      "asset_rights": "code_only",
+      "asset_rights_note": "Code is MIT. Livery artwork and airline marks inside the repository are third-party content and are NOT covered by the code licence. Metadata (aircraft/airline names, file layout) may be used for cataloguing; textures/models require separate permission or replacement (SKYBOUND spec 6.4/32.5)."
+    },
+    {
+      "repo": "GeofsExplorer/GeoFS-LiverySelector",
+      "github_url": "https://github.com/GeofsExplorer/GeoFS-LiverySelector",
+      "reachable": true,
+      "http_status": 200,
+      "inspected_at": "2026-11-21T20:23:12+00:00",
+      "exists": true,
+      "description": null,
+      "default_branch": "main",
+      "size_kb": 10566158,
+      "last_pushed": "2026-01-31T01:15:12Z",
+      "stars": 1,
+      "archived": false,
+      "code_license": "MIT",
+      "code_license_name": "MIT License",
+      "code_license_url": "https://github.com/GeofsExplorer/GeoFS-LiverySelector/blob/main/LICENSE",
+      "top_level": [
+        {
+          "name": ".github",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": ".gitignore",
+          "type": "file",
+          "size": 22
+        },
+        {
+          "name": ".webhook",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "LICENSE",
+          "type": "file",
+          "size": 1064
+        },
+        {
+          "name": "README.md",
+          "type": "file",
+          "size": 12374
+        },
+        {
+          "name": "airline.json",
+          "type": "file",
+          "size": 19926
+        },
+        {
+          "name": "commit.txt",
+          "type": "file",
+          "size": 41
+        },
+        {
+          "name": "liveries",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "livery.json",
+          "type": "file",
+          "size": 3035603
+        },
+        {
+          "name": "liveryselector-logo-small.svg",
+          "type": "file",
+          "size": 29310
+        },
+        {
+          "name": "liveryselector-logo.svg",
+          "type": "file",
+          "size": 40094
+        },
+        {
+          "name": "logo.png",
+          "type": "file",
+          "size": 27060
+        },
+        {
+          "name": "logosmall.png",
+          "type": "file",
+          "size": 16886
+        },
+        {
+          "name": "main.js",
+          "type": "file",
+          "size": 49913
+        },
+        {
+          "name": "maps",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "styles.css",
+          "type": "file",
+          "size": 6390
+        },
+        {
+          "name": "thumbs",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "tutorial.txt",
+          "type": "file",
+          "size": 5952
+        },
+        {
+          "name": "va.js",
+          "type": "file",
+          "size": 940
+        },
+        {
+          "name": "whitelist.json",
+          "type": "file",
+          "size": 5138
+        }
+      ],
+      "top_level_names": [
+        ".github",
+        ".gitignore",
+        ".webhook",
+        "LICENSE",
+        "README.md",
+        "airline.json",
+        "commit.txt",
+        "liveries",
+        "livery.json",
+        "liveryselector-logo-small.svg",
+        "liveryselector-logo.svg",
+        "logo.png",
+        "logosmall.png",
+        "main.js",
+        "maps",
+        "styles.css",
+        "thumbs",
+        "tutorial.txt",
+        "va.js",
+        "whitelist.json"
+      ],
+      "asset_rights": "code_only",
+      "asset_rights_note": "Code is MIT. Livery artwork and airline marks inside the repository are third-party content and are NOT covered by the code licence. Metadata (aircraft/airline names, file layout) may be used for cataloguing; textures/models require separate permission or replacement (SKYBOUND spec 6.4/32.5)."
+    },
+    {
+      "repo": "RoqueDJ/GEOFS-LiverySelectorUltimate",
+      "github_url": "https://github.com/RoqueDJ/GEOFS-LiverySelectorUltimate",
+      "reachable": true,
+      "http_status": 200,
+      "inspected_at": "2026-11-21T20:23:13+00:00",
+      "exists": true,
+      "description": "Unified livery handler addon for GeoFS.",
+      "default_branch": "main",
+      "size_kb": 11243641,
+      "last_pushed": "2026-07-27T14:11:00Z",
+      "stars": 0,
+      "archived": false,
+      "code_license": "MIT",
+      "code_license_name": "MIT License",
+      "code_license_url": "https://github.com/RoqueDJ/GEOFS-LiverySelectorUltimate/blob/main/LICENSE",
+      "top_level": [
+        {
+          "name": ".github",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": ".gitignore",
+          "type": "file",
+          "size": 40
+        },
+        {
+          "name": ".webhook",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "FAQ.md",
+          "type": "file",
+          "size": 1298
+        },
+        {
+          "name": "LICENSE",
+          "type": "file",
+          "size": 1064
+        },
+        {
+          "name": "airline.json",
+          "type": "file",
+          "size": 27080
+        },
+        {
+          "name": "commit.txt",
+          "type": "file",
+          "size": 41
+        },
+        {
+          "name": "liveries",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "livery.json",
+          "type": "file",
+          "size": 3390563
+        },
+        {
+          "name": "liveryselector-logo-small.svg",
+          "type": "file",
+          "size": 29310
+        },
+        {
+          "name": "liveryselector-logo.svg",
+          "type": "file",
+          "size": 40094
+        },
+        {
+          "name": "main.js",
+          "type": "file",
+          "size": 53427
+        },
+        {
+          "name": "maps",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "styles.css",
+          "type": "file",
+          "size": 6390
+        },
+        {
+          "name": "thumbs",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "tutorial",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "va.js",
+          "type": "file",
+          "size": 940
+        },
+        {
+          "name": "whitelist.json",
+          "type": "file",
+          "size": 5620
+        }
+      ],
+      "top_level_names": [
+        ".github",
+        ".gitignore",
+        ".webhook",
+        "FAQ.md",
+        "LICENSE",
+        "airline.json",
+        "commit.txt",
+        "liveries",
+        "livery.json",
+        "liveryselector-logo-small.svg",
+        "liveryselector-logo.svg",
+        "main.js",
+        "maps",
+        "styles.css",
+        "thumbs",
+        "tutorial",
+        "va.js",
+        "whitelist.json"
+      ],
+      "asset_rights": "code_only",
+      "asset_rights_note": "Code is MIT. Livery artwork and airline marks inside the repository are third-party content and are NOT covered by the code licence. Metadata (aircraft/airline names, file layout) may be used for cataloguing; textures/models require separate permission or replacement (SKYBOUND spec 6.4/32.5)."
+    },
+    {
+      "repo": "Ariakim-Taiyo/LiveryChanger",
+      "github_url": "https://github.com/Ariakim-Taiyo/LiveryChanger",
+      "reachable": false,
+      "http_status": 404,
+      "inspected_at": "2026-11-21T20:23:13+00:00",
+      "exists": false,
+      "status_note": "Repository not reachable via the GitHub API (HTTP 404: Not Found). Recorded as unavailable; do not assume it exists.",
+      "code_license": null,
+      "asset_rights": "unavailable"
+    },
+    {
+      "repo": "Spice9/Geofs-Multiliveries",
+      "github_url": "https://github.com/Spice9/Geofs-Multiliveries",
+      "reachable": true,
+      "http_status": 200,
+      "inspected_at": "2026-11-21T20:23:13+00:00",
+      "exists": true,
+      "description": null,
+      "default_branch": "main",
+      "size_kb": 597549,
+      "last_pushed": "2025-09-07T01:51:44Z",
+      "stars": 23,
+      "archived": false,
+      "code_license": null,
+      "code_license_name": null,
+      "code_license_url": "https://github.com/Spice9/Geofs-Multiliveries/blob/main/LICENSE",
+      "top_level": [
+        {
+          "name": ".github",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "Multiliveries.js",
+          "type": "file",
+          "size": 13949
+        },
+        {
+          "name": "README.md",
+          "type": "file",
+          "size": 2289
+        },
+        {
+          "name": "Tampermonkey version by Elon Musk",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "contributing.md",
+          "type": "file",
+          "size": 8419
+        },
+        {
+          "name": "dependencies",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "important.md",
+          "type": "file",
+          "size": 1953
+        },
+        {
+          "name": "main.mustache",
+          "type": "file",
+          "size": 2300
+        },
+        {
+          "name": "node_modules",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "package-lock.json",
+          "type": "file",
+          "size": 1527
+        },
+        {
+          "name": "package.json",
+          "type": "file",
+          "size": 294
+        },
+        {
+          "name": "rmu.js",
+          "type": "file",
+          "size": 857
+        },
+        {
+          "name": "thumbGen.js",
+          "type": "file",
+          "size": 9573
+        }
+      ],
+      "top_level_names": [
+        ".github",
+        "Multiliveries.js",
+        "README.md",
+        "Tampermonkey version by Elon Musk",
+        "contributing.md",
+        "dependencies",
+        "important.md",
+        "main.mustache",
+        "node_modules",
+        "package-lock.json",
+        "package.json",
+        "rmu.js",
+        "thumbGen.js"
+      ],
+      "asset_rights": "no_license",
+      "asset_rights_note": "No recognised open-source licence. Nothing from this repository may be redistributed. Research/reference only."
+    },
+    {
+      "repo": "iuhairways/GEOFS-LiverySelector-by-kolos26",
+      "github_url": "https://github.com/iuhairways/GEOFS-LiverySelector-by-kolos26",
+      "reachable": true,
+      "http_status": 200,
+      "inspected_at": "2026-11-21T20:23:14+00:00",
+      "exists": true,
+      "description": "Unified livery handler addon for geofs.",
+      "default_branch": "main",
+      "size_kb": 110244,
+      "last_pushed": "2023-09-30T09:28:38Z",
+      "stars": 0,
+      "archived": false,
+      "code_license": "MIT",
+      "code_license_name": "MIT License",
+      "code_license_url": "https://github.com/iuhairways/GEOFS-LiverySelector-by-kolos26/blob/main/LICENSE",
+      "top_level": [
+        {
+          "name": ".gitignore",
+          "type": "file",
+          "size": 16
+        },
+        {
+          "name": "Jet2_A330-900_geofs_1.png",
+          "type": "file",
+          "size": 1404339
+        },
+        {
+          "name": "LICENSE",
+          "type": "file",
+          "size": 1064
+        },
+        {
+          "name": "README.md",
+          "type": "file",
+          "size": 5537
+        },
+        {
+          "name": "air north.png",
+          "type": "file",
+          "size": 9440041
+        },
+        {
+          "name": "ezya21n.png",
+          "type": "file",
+          "size": 549584
+        },
+        {
+          "name": "gba.jpg",
+          "type": "file",
+          "size": 156854
+        },
+        {
+          "name": "gwra320 (1).png",
+          "type": "file",
+          "size": 778680
+        },
+        {
+          "name": "imagjsrtsrhe.png",
+          "type": "file",
+          "size": 111815
+        },
+        {
+          "name": "j2atr.png",
+          "type": "file",
+          "size": 60277
+        },
+        {
+          "name": "j2h757.png",
+          "type": "file",
+          "size": 128794
+        },
+        {
+          "name": "j2hneo.png",
+          "type": "file",
+          "size": 872992
+        },
+        {
+          "name": "liveries.json",
+          "type": "file",
+          "size": 442175
+        },
+        {
+          "name": "liveries",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "liveries2.json",
+          "type": "file",
+          "size": 322381
+        },
+        {
+          "name": "livery.json",
+          "type": "file",
+          "size": 93400
+        },
+        {
+          "name": "liveryselector-logo-small.svg",
+          "type": "file",
+          "size": 29310
+        },
+        {
+          "name": "liveryselector-logo.svg",
+          "type": "file",
+          "size": 40094
+        },
+        {
+          "name": "logo.png",
+          "type": "file",
+          "size": 27060
+        },
+        {
+          "name": "logosmall.png",
+          "type": "file",
+          "size": 16886
+        },
+        {
+          "name": "main.js",
+          "type": "file",
+          "size": 8050
+        },
+        {
+          "name": "main2.js",
+          "type": "file",
+          "size": 8053
+        },
+        {
+          "name": "maintestidek",
+          "type": "file",
+          "size": 8333
+        },
+        {
+          "name": "maps",
+          "type": "dir",
+          "size": 0
+        },
+        {
+          "name": "pid.png",
+          "type": "file",
+          "size": 598056
+        },
+        {
+          "name": "smartlynx.png",
+          "type": "file",
+          "size": 692621
+        },
+        {
+          "name": "smartlynxeasyjet.png",
+          "type": "file",
+          "size": 699053
+        },
+        {
+          "name": "trh.png",
+          "type": "file",
+          "size": 922737
+        },
+        {
+          "name": "tuismartlynx1.png",
+          "type": "file",
+          "size": 707454
+        }
+      ],
+      "top_level_names": [
+        ".gitignore",
+        "Jet2_A330-900_geofs_1.png",
+        "LICENSE",
+        "README.md",
+        "air north.png",
+        "ezya21n.png",
+        "gba.jpg",
+        "gwra320 (1).png",
+        "imagjsrtsrhe.png",
+        "j2atr.png",
+        "j2h757.png",
+        "j2hneo.png",
+        "liveries.json",
+        "liveries",
+        "liveries2.json",
+        "livery.json",
+        "liveryselector-logo-small.svg",
+        "liveryselector-logo.svg",
+        "logo.png",
+        "logosmall.png",
+        "main.js",
+        "main2.js",
+        "maintestidek",
+        "maps",
+        "pid.png",
+        "smartlynx.png",
+        "smartlynxeasyjet.png",
+        "trh.png",
+        "tuismartlynx1.png"
+      ],
+      "asset_rights": "code_only",
+      "asset_rights_note": "Code is MIT. Livery artwork and airline marks inside the repository are third-party content and are NOT covered by the code licence. Metadata (aircraft/airline names, file layout) may be used for cataloguing; textures/models require separate permission or replacement (SKYBOUND spec 6.4/32.5)."
+    }
+  ],
+  "skybound_policy": "This file is a *research register*, not an asset library. SKYBOUND ships no aircraft model or livery texture from these repositories. Each livery offered in-game must carry its own creator attribution and a recorded permission or an original replacement paint."
+}

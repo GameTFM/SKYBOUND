@@ -1,0 +1,22 @@
+# Build artefacts
+Build/*
+!Build/Installer/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.VC.db
+__pycache__/
+*.pyc
+
+# Never commit player-specific or credentialed files
+*.token
+CesiumIonToken*
+.env
+
+# First-party large binaries are tracked with Git LFS in a real project
+*.uasset filter=lfs
+*.umap filter=lfs
+*.fbx filter=lfs
+*.glb filter=lfs
